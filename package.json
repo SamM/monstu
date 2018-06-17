@@ -1,0 +1,27 @@
+{
+  "name": "monstu",
+  "version": "1.0.0",
+  "description": "A monster fighting game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamM/monstu.git"
+  },
+  "keywords": [
+    "electron",
+    "game",
+    "javascript"
+  ],
+  "author": "Sam Mulqueen <sammulqueen.nz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamM/monstu/issues"
+  },
+  "homepage": "https://github.com/SamM/monstu#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
